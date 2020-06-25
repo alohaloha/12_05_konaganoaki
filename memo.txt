@@ -6,3 +6,28 @@ sql文学習
   「よくわかるSQL」 http://urx.blue/SpQm
   「PHP入門」 http://urx.blue/F1RV
   「スッキリわかるsql入門」  http://urx.blue/TnDO
+
+
+PHP選手権
+小林大河さん
+  現役同士でスキルシェアするツール
+
+にいじまさん
+
+つぐつぐ
+  アブラハム・ウィリアム
+  自然言語処理
+
+あやや
+  Geolocation API
+
+のりくん
+  学生向け教科書シェアサービス
+
+ひろさん
+  サイトスケープjs
+
+そらくん
+  unity C#
+  RPGゲーム
+
