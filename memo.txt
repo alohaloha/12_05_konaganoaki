@@ -1,0 +1,8 @@
+上位階層のファイルからfunctionを呼び出す
+  ***dirname,  include_once,  etc
+  https://agohack.com/going-levels-up-on-dirname/
+
+sql文学習
+  「よくわかるSQL」 http://urx.blue/SpQm
+  「PHP入門」 http://urx.blue/F1RV
+  「スッキリわかるsql入門」  http://urx.blue/TnDO

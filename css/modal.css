@@ -1,0 +1,39 @@
+#open,
+#close{
+    cursor: pointer;
+    width: 200px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    text-align: center;
+    padding: 12px 0;
+    margin: 16px auto 0;
+}
+#mask{
+    background-color: rgba(0, 0,0,0.4);
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    top: 0;
+    left: 0;
+}
+#modal{
+    background-color: #fff;
+    width: 300px;
+    padding: 20px;
+    border-radius: 4px;
+    position: absolute;
+    top: 40px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    transition: transform 0.4s;
+}
+#modal p{
+    margin: 0 0 20px;
+}
+#mask.hidden{
+    display: none;
+}
+#modal.hidden{
+    transform: translateY(-500px);
+}
